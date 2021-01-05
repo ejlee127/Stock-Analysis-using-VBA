@@ -1,9 +1,9 @@
-# VBA-challenge
+# Stock Analysis using VBA
 We use VBA scripting to analyze metadata
 
 Stock data : We find the yearly price change and total stock volume for each ticker and then find the ticker who has the greatest increase, decrease or total volume.
 
-### The instructions: (from the README.md for the vba-challenge homework of BootCamp)
+### The instructions: (from the README.md for the vba-challenge homework of BootCamp Data Analytics at UNC Chapel Hill)
 
 First, we create a script that will loop through all the stocks for each year and output the following information.
 
